@@ -1,7 +1,7 @@
 # thoughtworks-project
 thoughtworks infrastructure problem for interview process
 
-Thoughts so far
+Thinky thinks so far
 
 
 [The Dev Team are ready for] a limited release (with reduced availability and reliability requirements) 
